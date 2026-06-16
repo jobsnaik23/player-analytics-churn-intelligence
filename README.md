@@ -1,12 +1,6 @@
 # Player Analytics & Churn Intelligence Platform
 ### Sports Betting Analytics Portfolio Project
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![SQL](https://img.shields.io/badge/SQL-SQLite-lightgrey?logo=sqlite)
-![PowerBI](https://img.shields.io/badge/Power%20BI-DAX-yellow?logo=powerbi)
-![Scikit-learn](https://img.shields.io/badge/ML-Scikit--learn-orange?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
-
 ---
 
 ## Business Problem
