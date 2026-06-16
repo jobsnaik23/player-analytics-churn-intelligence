@@ -154,5 +154,5 @@ python scripts/04_sql_analysis.py # SQL queries and Excel export
 
 **Sowmiyaraksha Naik** — Data Analyst | Python · SQL · Power BI | Brussels, Belgium
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sowmiyaraksha-naik-780511305)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/jobsnaik23)
